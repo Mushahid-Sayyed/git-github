@@ -1,2 +1,2 @@
 # git-github
-my first file
+my first project
